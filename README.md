@@ -198,3 +198,7 @@ Removing a verification method from the DID document:
 ## Conclusion
 
 This specification establishes SQL Verify's identity and operational structure in compliance with W3C DID standards. Leveraging did:web, robust authentication via Microsoft Authenticator, and secure key management with Microsoft Azure Key Vault, SQL Verify ensures secure, verifiable access for employees and users.
+
+## References
+
+Will be addressing all References here (in work).

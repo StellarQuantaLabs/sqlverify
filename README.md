@@ -17,8 +17,7 @@ This document (currently in work) outlines the DID specification for **SQL Verif
 
 ## Authentication Architecture
 The following diagram illustrates the Microsoft Entra Verified ID architecture that is taking place while a user is utilizing the SQL Verify App in order to retain their Verified ID for Microsoft Verification:
-![SQLverify authentication microsoft](https://github.com/user-attachments/assets/b8243dd3-ca87-4403-8eae-a800678d57be)
-
+![SQLverify authentication microsoft](https://github.com/StellarQuantaLabs/sqlverify/blob/main/SQL-Verify-authorization.png)
 
 ## DID Document
 

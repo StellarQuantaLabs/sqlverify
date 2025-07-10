@@ -2,7 +2,8 @@
 
 [![](https://img.shields.io/badge/Status-Draft-pink.svg?style=flat-square)](#Status)
 
-**UPDATE IN WORK. THIS IS AN OLDER VERSION OF WHAT THE APP STARTED AS-- NOW OBSOLETE. CHECK BACK SOON FOR UPDATES** This document (currently in work) outlines the DID specification for **SQL Verify**, a React-based single-page application (SPA) that will be hosted at `https://stellarquantalabs.org/sql-verify` and through Microsoft Marketplace when ready for production. SQL Verify leverages the `did:web` method to manage its decentralized identity and verification processes.
+## **NOTE: UPDATE IN WORK. THIS IS AN OLDER VERSION OF WHAT THE APP STARTED AS-- NOW OBSOLETE. CHECK BACK SOON FOR UPDATES!!** 
+This document (currently in work) outlines the DID specification for **SQL Verify**, a React-based single-page application (SPA) that will be hosted at `https://stellarquantalabs.org/sql-verify` and through Microsoft Marketplace when ready for production. SQL Verify leverages the `did:web` method to manage its decentralized identity and verification processes.
 
 ## Overview
 

@@ -1,3 +1,5 @@
+> **Status:** Archived / historical prototype. See **[SQL Verify](https://www.stellarquantalabs.org/sql-verify)** and **[Ghoststamp](https://www.stellarquantalabs.org/ghoststamp)** for current work.
+
 # SQL Verify (DEPRECATED / in-development snapshot)
 
 > This repository contains an **early prototype** of the SQL Verify app.  
@@ -38,6 +40,10 @@ Architecture (prototype):
 - `did:web:stellarquantalabs.org`  
   Served via our domain: `https://stellarquantalabs.org/.well-known/did.json`  
   Domain linkage: `https://stellarquantalabs.org/.well-known/did-configuration.json`
+
+  - DID Document: https://stellarquantalabs.org/.well-known/did.json  
+  - Domain linkage: https://stellarquantalabs.org/.well-known/did-configuration.json
+
 
 ### Status
 
